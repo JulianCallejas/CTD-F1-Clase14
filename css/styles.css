@@ -154,6 +154,13 @@ main input {
     width: 150px;
 }
 
+.ellipse span:hover {
+    background-color: #023654;
+}
+
+.ellipse span:active {
+    background: radial-gradient(circle, rgba(2,54,84,0.0760679271708683) 0%, rgba(2,54,84,0.5634628851540616) 35%, rgba(2,54,84,0.7959558823529411) 60%, rgba(2,54,84,1) 86%);
+}
 
 footer {
     align-items: center;
