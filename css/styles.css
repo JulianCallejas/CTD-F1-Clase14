@@ -18,6 +18,7 @@
 .anuncio-descuento {
     background-color: #1CD1B0;
     font-size: 15px;
+    min-width: 330px;
     height: 38px;
     padding: 11px 2.25%;
 }
@@ -27,6 +28,7 @@ header {
     box-shadow: 0px 5px 5px #C0C0C0;
     height: 101px;
     margin-bottom: 100px;
+    min-width: 330px;
     padding: 30.5px 2.25%;
     position: sticky;
     top: 0;
